@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAbstractFactory\bin\Debug\net8.0\PatternAbstractFactory.exe
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAbstractFactory\bin\Debug\net8.0\PatternAbstractFactory.deps.json
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAbstractFactory\bin\Debug\net8.0\PatternAbstractFactory.runtimeconfig.json
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAbstractFactory\bin\Debug\net8.0\PatternAbstractFactory.dll
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAbstractFactory\bin\Debug\net8.0\PatternAbstractFactory.pdb
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAbstractFactory\obj\Debug\net8.0\PatternAbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAbstractFactory\obj\Debug\net8.0\PatternAbstractFactory.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAbstractFactory\obj\Debug\net8.0\PatternAbstractFactory.AssemblyInfo.cs
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAbstractFactory\obj\Debug\net8.0\PatternAbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAbstractFactory\obj\Debug\net8.0\PatternAbstractFactory.dll
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAbstractFactory\obj\Debug\net8.0\refint\PatternAbstractFactory.dll
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAbstractFactory\obj\Debug\net8.0\PatternAbstractFactory.pdb
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAbstractFactory\obj\Debug\net8.0\PatternAbstractFactory.genruntimeconfig.cache
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAbstractFactory\obj\Debug\net8.0\ref\PatternAbstractFactory.dll
