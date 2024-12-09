@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternBuilder\bin\Debug\net8.0\PatternBuilder.exe
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternBuilder\bin\Debug\net8.0\PatternBuilder.deps.json
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternBuilder\bin\Debug\net8.0\PatternBuilder.runtimeconfig.json
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternBuilder\bin\Debug\net8.0\PatternBuilder.dll
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternBuilder\bin\Debug\net8.0\PatternBuilder.pdb
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternBuilder\obj\Debug\net8.0\PatternBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternBuilder\obj\Debug\net8.0\PatternBuilder.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternBuilder\obj\Debug\net8.0\PatternBuilder.AssemblyInfo.cs
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternBuilder\obj\Debug\net8.0\PatternBuilder.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternBuilder\obj\Debug\net8.0\PatternBuilder.dll
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternBuilder\obj\Debug\net8.0\refint\PatternBuilder.dll
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternBuilder\obj\Debug\net8.0\PatternBuilder.pdb
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternBuilder\obj\Debug\net8.0\PatternBuilder.genruntimeconfig.cache
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternBuilder\obj\Debug\net8.0\ref\PatternBuilder.dll
